@@ -8,10 +8,11 @@ This is my personal portfolio website designed to showcase my work, skills, and 
 4. Projects: A showcase of my most notable projects, including descriptions, technologies used, and links to live demos or repositories.
 5. Skills: A comprehensive list of my technical skills, including programming languages, tools, and frameworks.
 6. Contact Me: A form to get in touch with me, along with links to my social media profiles.
-Technologies Used
-HTML: For structuring the content on the website.
-CSS: For styling the website and creating a responsive layout.
-JavaScript: For adding interactivity and dynamic content to the website.
+
+## Technologies Used
+1. HTML: For structuring the content on the website.
+2. CSS: For styling the website and creating a responsive layout.
+3. JavaScript: For adding interactivity and dynamic content to the website.
 
 ## Usage
 Explore the landing page to get an overview of my portfolio.
